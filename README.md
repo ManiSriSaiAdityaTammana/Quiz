@@ -6,7 +6,8 @@ You can **copy–paste** directly.
  📘 Java Quiz Game
 
 A simple and interactive **Java console-based quiz application** featuring:
-✔ Multiple-choice questions
+✔ Multiple-choice questions<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc37c80e-97ad-4925-a6f3-3a10c387b076" />
+
 ✔ Randomized question order
 ✔ Countdown timer
 ✔ Automatic score calculation
